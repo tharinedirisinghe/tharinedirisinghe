@@ -1,0 +1,2 @@
+# Ignore local prompt instruction file
+.github/prompts/create-readme.prompt.md
