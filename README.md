@@ -1,100 +1,65 @@
-# Hi, I'm Tharine Dirisinghe
+### Hi there 👋
 
-![Profile README](https://img.shields.io/badge/profile-readme-blue)
-![Open to Collaboration](https://img.shields.io/badge/collaboration-welcome-success)
+<!--
+tharinedirisinghe/tharinedirisinghe is a special repository because this README appears on the GitHub profile page.
+-->
 
-Undergraduate in Information Technology (Honors) at the University of Moratuwa, Sri Lanka.
+<h1 align="left" id="tharine-title">Hello there! I'm Tharine</h1>
+<h3 align="left">I am an aspiring Software Engineer with a real interest in web technologies and practical product building.</h3>
 
-I enjoy building practical software, learning by shipping projects, and collaborating in open source.
+<p align="left">
+  <a href="https://github.com/tharinedirisinghe/tharinedirisinghe">
+    <img src="https://komarev.com/ghpvc/?username=tharinedirisinghe" alt="page views" />
+  </a>
+  <a href="https://github.com/tharinedirisinghe?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/tharinedirisinghe?color=2f855a&logo=github" />
+  </a>
+  <a href="https://github.com/tharinedirisinghe">
+    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-tharinedirisinghe-181717?logo=github" />
+  </a>
+</p>
 
-## What This Project Does
+- 🌱 I’m currently studying for BSc. (Hons.) in Information Technology at University of Moratuwa, Sri Lanka.
+- 💬 Ask me anything on my [issues page].
+- 💻 Connect with me on [LinkedIn].
 
-This repository is the source for my GitHub profile page. Since this is a special profile repository, this README is displayed directly on my public profile.
+<br />
 
-## Why This Project Is Useful
+## About Me
 
-- Gives a quick overview of who I am and what I am working on.
-- Helps collaborators find the right way to connect.
-- Keeps profile content version controlled and easy to improve.
+- Building skills in full-stack development and software engineering fundamentals.
+- Interested in creating useful products with clean user experiences.
+- Open to internship and collaboration opportunities.
 
-## Current Focus
+## Tech Stack
 
-- Strengthening full-stack software engineering skills.
-- Building real-world portfolio projects.
-- Contributing to community and open source work.
+- Languages: JavaScript, TypeScript, Python, Java
+- Frontend: React, HTML, CSS
+- Backend: Node.js, Express
+- Databases: MySQL, MongoDB
+- Tools: Git, GitHub, VS Code, Postman
 
-## Tech Interests
+## Featured Projects
 
-- Software Engineering
-- Web and Application Development
-- Databases and System Design
-- Developer Tooling and Productivity
+- Portfolio projects coming soon.
+- Open source contributions coming soon.
 
-## Featured Work
+## GitHub Stats
 
-This section is intentionally lightweight for now and can be updated as projects are published.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tharinedirisinghe&show_icons=true&theme=default" alt="Tharine GitHub stats" />
+</p>
 
-- Project 1: Coming soon
-- Project 2: Coming soon
-- Project 3: Coming soon
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharinedirisinghe&layout=compact&theme=default" alt="Top languages" />
+</p>
 
-## How To Get Started
+## Reach Me
 
-If you want to update or adapt this profile README:
+- LinkedIn: [LinkedIn]
+- GitHub: [GitHub Profile]
+- Issues: [issues page]
 
-```bash
-git clone https://github.com/tharinedirisinghe/tharinedirisinghe.git
-cd tharinedirisinghe
-```
-
-Edit [README.md](README.md), then commit and push:
-
-```bash
-git checkout -b docs/update-profile
-git add README.md
-git commit -m "docs: update profile README"
-git push origin docs/update-profile
-```
-
-## Usage Examples
-
-Add a short update:
-
-```md
-## This Week
-
-- Working on a new portfolio project
-- Learning better API design practices
-```
-
-Add a featured project entry:
-
-```md
-- Expense Tracker App: Personal finance tracker with analytics dashboard
-```
-
-## Where To Get Help
-
-- Open an issue for suggestions or corrections:
-  - https://github.com/tharinedirisinghe/tharinedirisinghe/issues
-- GitHub Markdown documentation:
-  - https://docs.github.com/get-started/writing-on-github
-
-## Connect With Me
-
-Update this list with your active links:
-
-- LinkedIn: Add your profile URL
-- Portfolio: Add your website URL
-- Email: Add your preferred contact email
-
-## Maintainer And Contributions
-
-Maintainer: Tharine Dirisinghe
-
-Contributions are welcome for readability, grammar, and profile content improvements.
-
-1. Fork the repository.
-2. Create a branch for your changes.
-3. Keep edits focused and easy to review.
-4. Open a pull request with a clear summary.
+[issues page]: https://github.com/tharinedirisinghe/tharinedirisinghe/issues "tharinedirisinghe/issues"
+[linkedin]: https://www.linkedin.com/in/your-linkedin-username/ "LinkedIn"
+[github profile]: https://github.com/tharinedirisinghe "GitHub profile"
