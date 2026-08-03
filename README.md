@@ -12,17 +12,17 @@ tharinedirisinghe/tharinedirisinghe is a special repository because this README 
 
 - 🌱 I’m currently studying for BSc. (Hons.) in Information Technology at University of Moratuwa, Sri Lanka.
 - 💬 Ask me anything on my [issues page].
-- 💻 Connect with me on [LinkedIn].
 
 <br />
 
 <p align="left">
-  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=tharinedirisinghe&show_icons=true&hide_title=true&count_private=true&theme=default&title_color=2f855a&icon_color=2f855a" alt="Tharin's GitHub stats" />
-  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharinedirisinghe&layout=compact&hide_title=true&theme=default&title_color=2f855a" alt="Top languages" />
+  <a href="https://www.linkedin.com/in/tharin-edirisinghe-838a54223" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100085302821450" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
 
-<br />
-
 [issues page]: https://github.com/tharinedirisinghe/tharinedirisinghe/issues "tharinedirisinghe/issues"
-[linkedin]: https://www.linkedin.com/in/tharin-edirisinghe-838a54223 "LinkedIn"
 [github profile]: https://github.com/tharinedirisinghe "GitHub profile"
