@@ -8,17 +8,18 @@ tharinedirisinghe/tharinedirisinghe is a special repository because this README 
   <a href="https://github.com/tharinedirisinghe/tharinedirisinghe">
     <img src="https://komarev.com/ghpvc/?username=tharinedirisinghe" alt="page views" />
   </a>
-  <a href="https://github.com/tharinedirisinghe?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/tharinedirisinghe?color=2f855a&logo=github" />
-  </a>
-  <a href="https://github.com/tharinedirisinghe">
-    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-tharinedirisinghe-181717?logo=github" />
-  </a>
 </p>
 
 - 🌱 I’m currently studying for BSc. (Hons.) in Information Technology at University of Moratuwa, Sri Lanka.
 - 💬 Ask me anything on my [issues page].
 - 💻 Connect with me on [LinkedIn].
+
+<br />
+
+<p align="left">
+  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=tharinedirisinghe&show_icons=true&hide_title=true&count_private=true&theme=default&title_color=2f855a&icon_color=2f855a" alt="Tharin's GitHub stats" />
+  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharinedirisinghe&layout=compact&hide_title=true&theme=default&title_color=2f855a" alt="Top languages" />
+</p>
 
 <br />
 
